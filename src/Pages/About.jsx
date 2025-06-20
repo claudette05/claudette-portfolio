@@ -205,7 +205,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Eki Zulfar Rachman
+                Claudette Cobbah
               </span>
             </h2>
             
@@ -214,8 +214,10 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-             Seorang lulusan Teknik Jaringan Komputer dan Telekomunikasi yang memiliki ketertarikan besar dalam pengembangan Front-End. Saya berfokus pada menciptakan pengalaman digital yang menarik dan selalu berusaha memberikan solusi terbaik dalam setiap proyek yang saya kerjakan.
-            </p>
+            <p>
+  I’m Claudette Cobbah, a computer engineering student and aspiring tech founder. I’m passionate about building creative tools like Bluejoy Library, and I care deeply about creating meaningful digital experiences that empower others.
+</p>
+
 
                {/* Quote Section */}
       <div 
